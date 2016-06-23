@@ -1,5 +1,15 @@
 {
-  "devDependencies": {
-    "gulp": "registry:npm/gulp#4.0.0-alpha.2+20160618213436"
-  }
+  "globalDependencies": {
+    "core-js": "registry:dt/core-js#0.0.0+20160602141332",
+    "del": "registry:dt/del#2.2.0+20160317120654",
+    "gulp": "registry:dt/gulp#3.8.0+20160316155526",
+    "gulp-concat": "registry:dt/gulp-concat#0.0.0+20160316155526",
+    "gulp-sourcemaps": "registry:dt/gulp-sourcemaps#0.0.0+20160316155526",
+    "gulp-tslint": "registry:dt/gulp-tslint#3.6.0+20160316155526",
+    "gulp-typescript": "registry:dt/gulp-typescript#0.0.0+20160317120654",
+    "gulp-uglify": "registry:dt/gulp-uglify#0.0.0+20160316155526",
+    "jasmine": "registry:dt/jasmine#2.2.0+20160505161446",
+    "node": "registry:dt/node#6.0.0+20160613154055"
+  },
+  "dependencies": {}
 }
